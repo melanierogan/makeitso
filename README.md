@@ -15,3 +15,7 @@ The final frontier. These are the voyages of the JSON Objects. Their continuing 
 ## Beam me up
 
 Grab yourself a copy of `space.json` and start exploring. 
+
+## Report for duty ensign!
+
+Start with [mission one](https://github.com/melanierogan/makeitso/blob/master/first_mission.md).
