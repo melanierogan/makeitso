@@ -7,9 +7,9 @@ Learning about JSON objects and having fun with Javascript with Star Trek ships
 ![download](https://user-images.githubusercontent.com/16557524/81819201-e9add180-9526-11ea-9e32-d6d7f1f2484a.png)
 
 
-## Space
+## Space...
 
-Space... The final frontier. These are the voyages of the JSON Objects. Their continuing mission, to explore strange new worlds. To seek out new life and new civilizations. To boldly go where no JavaScript has gone before.
+The final frontier. These are the voyages of the JSON Objects. Their continuing mission, to explore strange new worlds. To seek out new life and new civilizations. To boldly go where no JavaScript has gone before.
 
 
 ## Beam me up
