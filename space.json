@@ -1,0 +1,276 @@
+[
+  {
+    "_id":"NCC-1701-D",
+    "ship_name":"USS Enterprise",
+    "class":"Galaxy-class starship",
+    "series_name":"Star Trek: The Next Generation",
+    "power":"Warp core",
+    "maximum_speed":"Warp 9.8",
+    "launch_date":"10-2362",
+    "decommissioned_date":"10-2371",
+    "is_active":false,
+    "auxiliary_vehicles":[
+      {
+      "type":"shuttle craft",
+      "name": "SC-1"
+      },
+      {
+      "type":"captain's yacht",
+      "name": "Calypso"
+      }
+    ],
+    "defences":"High-capacity deflector shields",
+    "amenities":[
+      {
+        "type":"lounge",
+        "name": "Ten Forward"
+      },
+      {
+        "type":"transport",
+        "name": "Shuttle Bay"
+      },
+      {
+        "type":"tactical",
+        "name": "Ready Room"
+      },
+      {
+        "type":"lab",
+        "name": "Geology Lab"
+      },
+      {
+        "type":"lab",
+        "name": "Archaeology Lab"
+      },
+      {
+        "type":"medical",
+        "name": "Sick Bay"
+      },
+      {
+        "type":"organic",
+        "name": "Arboretum"
+      },
+      {
+        "type":"engineering",
+        "name": "Computer Access Room"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 1"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 2"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 3"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 4"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 5"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 6"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 7"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 8"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 9"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 10"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 11"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 12"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 13"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 14"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 15"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 16"
+      }
+    ],
+    "captains":[
+      {"name":"Jean-Luc Picard"},
+      {"name":"William T. Riker"},
+      {"name":"Edward Jellico"}
+    ],
+    "planets_visited":[
+      {"name":"Betazed"},
+      {"name":"Risa"},
+      {"name":"Andor"},
+      {"name":"Earth"}
+    ]
+  },
+  {
+    "_id":"NCC-74656",
+    "ship_name":"USS Voyager",
+    "class":"Intrepid-class starship",
+    "series_name":"Star Trek: Voyager",
+    "power":"Warp core",
+    "maximum_speed":"Warp 9.975",
+    "launch_date":"10-2371",
+    "decommissioned_date":"10-2378",
+    "is_active":false,
+    "auxiliary_vehicles":[
+      {
+      "type":"shuttle craft",
+      "name": "SC-1"
+      },
+      {
+        "type":"support craft",
+        "name": "Delta Flyer"
+      }
+    ],
+    "defences":"High-capacity deflector shields",
+    "amenities":[
+      {
+        "type":"lounge",
+        "name": "Ten Forward"
+      },
+      {
+        "type":"transport",
+        "name": "Shuttle Bay"
+      },
+      {
+        "type":"cargo",
+        "name": "Cargo Bay 1"
+      },
+      {
+        "type":"cargo",
+        "name": "Cargo Bay 2"
+      },
+      {
+        "type":"tactical",
+        "name": "Ready Room"
+      },
+      {
+        "type":"lab",
+        "name": "Airponics Bay"
+      },
+      {
+        "type":"tactical",
+        "name": "Galley"
+      },
+      {
+        "type":"medical",
+        "name": "Sick Bay"
+      },
+      {
+        "type":"organic",
+        "name": "Arboretum"
+      },
+      {
+        "type":"engineering",
+        "name": "Computer Access Room"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 1"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 2"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 3"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 4"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 5"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 6"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 7"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 8"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 9"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 10"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 11"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 12"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 13"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 14"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 15"
+      },
+      {
+        "type":"holodeck",
+        "name": "Halodeck 16"
+      }
+    ],
+    "captains":[
+      {"name":"Kathryn Janeway"}
+    ],
+    "planets_visited":[
+      {"name":"Allos' moon outpost's planet"},
+      {"name":"Class 6 gas giant"},
+      {"name":"Class D Planet"},
+      {"name":"Class M Planet"},
+      {"name":"Class T Planet"},
+      {"name":"Class Y Planet"},
+      {"name":"Commerce Planet"},
+      {"name":"Clevari System Planets"},
+      {"name":"Entharan Colony"},
+      {"name":"Garan mining Colony"}
+    ]
+  }
+]
