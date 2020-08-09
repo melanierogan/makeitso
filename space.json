@@ -1,3 +1,17 @@
+
+//lodash for inspiration
+//underscore
+//start with native
+//command line mystery
+//tenfour
+//boolean in native function Boolean to find undefined or null values
+//map need a new a array
+//seperate file populate a room
+//end point health check
+//starfleet subspace channel
+//worm hole
+//time of voyager
+
 [
   {
     "_id":"NCC-1701-D",
@@ -23,100 +37,224 @@
     "amenities":[
       {
         "type":"lounge",
-        "name": "Ten Forward"
+        "name": "Ten Forward",
+        "status": "occupied",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"transport",
-        "name": "Shuttle Bay"
+        "name": "Shuttle Bay",
+        "status": "occupied",
+        "occupancy_manifest": ["Data", "Data"
+        ]
       },
       {
         "type":"tactical",
-        "name": "Ready Room"
+        "name": "Ready Room",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"lab",
-        "name": "Geology Lab"
+        "name": "Geology Lab",
+        "status": "occupied",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"lab",
-        "name": "Archaeology Lab"
+        "name": "Archaeology Lab",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"medical",
-        "name": "Sick Bay"
+        "name": "Sick Bay",
+        "status": "occupied",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"organic",
-        "name": "Arboretum"
+        "name": "Arboretum",
+        "status": "occupied",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"engineering",
-        "name": "Computer Access Room"
+        "name": "Computer Access Room",
+        "status": "occupied",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 1"
+        "name": "Halodeck 1",
+        "status": "occupied",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 2"
+        "name": "Halodeck 2",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 3"
+        "name": "Halodeck 3",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 4"
+        "name": "Halodeck 4",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 5"
+        "name": "Halodeck 5",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 6"
+        "name": "Halodeck 6",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 7"
+        "name": "Halodeck 7",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 8"
+        "name": "Halodeck 8",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 9"
+        "name": "Halodeck 9",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 10"
+        "name": "Halodeck 10",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 11"
+        "name": "Halodeck 11",
+        "status": "occupied",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 12"
+        "name": "Halodeck 12",
+        "status": "occupied",
+        "occupancy_manifest": [
+          "Troi"
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 13"
+        "name": "Halodeck 13",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 14"
+        "name": "Halodeck 14",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 15"
+        "name": "Halodeck 15",
+        "status": "empty",
+        "occupancy_manifest": [
+        ]
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 16"
+        "name": "Halodeck 16",
+        "status": "empty",
+        "occupancy_manifest": [
+          "Jean-Luc Picard", "Riker"
+        ]
       }
+    ],
+    "crew": [
+      { "name": "Data",
+        "classification": "android",
+        "rank": "Commander",
+        "health": {
+          "level": "good",
+          "stress_indicator": "red"
+        }
+      },
+      { "name": "Data",
+        "classification": "unknown",
+        "rank": "Commander",
+        "health": {
+          "level": "bad",
+          "stress_indicator": "red"
+        }
+      },
+      { "name": "Geordie Le Forge",
+        "classification": "humanoid",
+        "rank": "Lieutenant",
+        "health": {
+          "level": "good",
+          "stress_indicator": "red"
+        }
+      },
+      { "name": "Riker",
+        "classification": "humanoid",
+        "rank": "Lt Commander",
+        "health": {
+          "level": "good",
+          "stress_indicator": "green"
+        }
+      },
+      { "name": "Worf",
+        "classification": "klingon",
+        "rank": "Commander",
+        "health": {
+          "level": "good",
+          "stress_indicator": "green"
+        }
+      },
+      { "name": "Deanna Troi",
+        "classification": "betazed",
+        "rank": "Commander",
+        "health": {
+          "level": "good",
+          "stress_indicator": "green"
+        }
+      },
     ],
     "captains":[
       {"name":"Jean-Luc Picard"},
@@ -230,7 +368,9 @@
       },
       {
         "type":"holodeck",
-        "name": "Halodeck 10"
+        "name": "Halodeck 10",
+        "size" : "large",
+        "safety_protocols" : "ON"
       },
       {
         "type":"holodeck",
